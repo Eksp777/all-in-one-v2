@@ -71,3 +71,4 @@ The README in English can be found here: [README_eng.md](https://github.com/zaiv
 - https://t.me/links_hodlmodeth
 - Code chat: [[ code ]](https://t.me/code_hodlmodeth)
 - Ультимативный гайд по запуску скриптов на python : https://teletype.in/@hodlmod.eth/how-to-run-scripts
+- hgjjjjjj
