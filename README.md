@@ -4,7 +4,7 @@ The README in English can be found here: [README_eng.md](https://github.com/zaiv
 
 Идеальный софт для ведения фермы.
 
-## Основные модули
+## Основные модули1
 
 1. **evm_balance_checker**: Асинхронная проверка баланса любых токенов в любой EVM сети.
 2. **starknet_balance_checker**: Асинхронная проверка баланса токенов в Starknet.
